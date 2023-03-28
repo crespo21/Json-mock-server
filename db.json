@@ -6,35 +6,6 @@
       "price": 15.99,
       "image": "https://via.placeholder.com/200x200?text=T-Shirt"
     },
-    {
-      "id": 2,
-      "name": "Jeans",
-      "price": 49.99,
-      "image": "https://via.placeholder.com/200x200?text=Jeans"
-    },
-    {
-      "id": 3,
-      "name": "Jacket",
-      "price": 79.99,
-      "image": "https://via.placeholder.com/200x200?text=Jacket"
-    },
-     {
-      "id": 4,
-      "name": "Socks",
-      "price": 9.99,
-      "image": "https://via.placeholder.com/200x200?text=Scoks"
-    },
-     {
-      "id": 5,
-      "name": "Sneakers",
-      "price": 9.99,
-      "image": "https://via.placeholder.com/200x200?text=Sneakers"
-    },
-     {
-      "id": 6,
-      "name": "Cap",
-      "price": 4.99,
-      "image": "https://via.placeholder.com/200x200?text=Cap"
-    }
+ 
   ]
 }
