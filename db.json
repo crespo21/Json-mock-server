@@ -6,6 +6,12 @@
       "price": 15.99,
       "image": "https://via.placeholder.com/200x200?text=T-Shirt"
     },
+ {
+      "id": 1,
+      "name": "shoes"
+      "price": 15.99,
+      "image": "https://via.placeholder.com/200x200?text=T-Shirt"
+    
  
   ]
 }
